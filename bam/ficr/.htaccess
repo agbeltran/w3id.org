@@ -2,6 +2,11 @@
 # Namespace: https://w3id.org/bam/ficr#
 # Base IRI:   https://w3id.org/bam/ficr
 
+# Maintainer:
+# GitHub: RainGo111
+# Name: Rain Cheung
+# Project: FiCR Ontology
+
 Options +FollowSymLinks
 RewriteEngine On
 
