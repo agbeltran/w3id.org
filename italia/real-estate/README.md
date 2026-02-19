@@ -13,4 +13,4 @@ Some redirect rules will be to the [github repository of Agenzia del Demanio](ht
 
 Contacts:
 
-+ Marco Trocino: @Agenzia-del-Demanio - email dg.dtdsd@agenziademanio.it
++ Marco Trocino: github (https://github.com/marco-trocino-demanio) - email (marco.trocino@agenziademanio.it)
